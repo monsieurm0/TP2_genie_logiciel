@@ -1,2 +1,7 @@
 Boukhair Mouâd 
 Bourrier Romain
+On ne voit plus apparaitre notre fichier sur la branche master car on l'a commit à la branche mon_fichier²:wq
+
+
+
+. 
